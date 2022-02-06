@@ -5,7 +5,7 @@ h2{color:#474346;}
 /* Smartphones (portrait) ----------- */
 @media screen (max-width : 480px) {
   
-  h1{font-size: 40px;}
+  h1{font-size: 140px;}
   h2{font-size: 35px}
   a{font-size: 30px;}
 }
