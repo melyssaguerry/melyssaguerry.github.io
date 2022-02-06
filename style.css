@@ -3,8 +3,7 @@ a{color:#1e747c;font-weight: bold;text-decoration:none;}
 h2{color:#474346;}
 
 /* Smartphones (portrait) ----------- */
-@media only screen 
-and (max-width : 480px) {
+@media (max-width : 480px) {
   
   h1{font-size: 40px;}
   h2{font-size: 35px}
